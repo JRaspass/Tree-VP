@@ -45,7 +45,7 @@
             "List::Priority" : "0",
             "Moo" : "0",
             "Tree::DAG_Node" : "0",
-            "perl" : "5.8"
+            "perl" : "v5.8"
          }
       },
       "test" : {
